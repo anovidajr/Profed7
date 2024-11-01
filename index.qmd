@@ -1,0 +1,17 @@
+---
+title: "Home"
+format:
+  html:
+    footer: |
+    extra_dependencies:
+---
+
+```         
+Sample lang
+```
+
+<footer>
+
+<p>© 2024 My Name. All rights reserved.</p>
+
+</footer>

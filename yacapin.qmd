@@ -1,0 +1,69 @@
+---
+title: "Yacapin"
+format: 
+  html:
+    
+    toc: true
+    toc-location: left
+    number-sections: true
+---
+
+#Curriculum Vitae
+
+<center>
+
+<p>Curriculum Vitae</p>
+
+</center>
+
+<hr>
+
+![](assets/male.png){fig-align="center" width="2in"}
+
+<center>
+
+<p>Yacapin, Marc Dave C.</p>
+
+<p>Address</p>
+
+<p>Contact</p>
+
+<p>Email Address</p>
+
+</center>
+
+<hr>
+
+<b>Personal Information</b>
+
+Home Address:
+
+Date of Birth:
+
+Place of Birth:
+
+Age:
+
+Gender:
+
+Status:
+
+Citizenship:
+
+Father's Name:
+
+Mother's Name:
+
+<b>Educational Background</b>
+
+<b>Elementray</b>
+
+<b>Secondary</b>
+
+<b>Tertiary</b>
+
+<center>
+
+<p><u><b>Seminar Attended</b></u></p>
+
+</center>

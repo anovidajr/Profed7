@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - text: CV
+        menu:
+          - href: taberna.qmd
+            text: Taberna, Jastine Mae P.
+          - href: garcia.qmd
+            text: Garcia, Jannrey Joshua N.
+          - href: paulo.qmd
+            text: Paulo, Mhicca R.
+          - href: novida.qmd
+            text: Novida Arsenio, Jr. P.
+          - href: yacapin.qmd
+            text: Yacapin, Marc Dave C.
+          - href: sagayaga.qmd
+            text: Sagayaga, Cris Shena D.
+          - href: gayadon.qmd
+            text: Gayadon, Airah K.
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    extra_dependencies:
+      - fontawesome
+    theme: cerulean
+    css: styles.css
+    toc: true
+
+editor: visual
+
